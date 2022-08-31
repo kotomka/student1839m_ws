@@ -1,0 +1,8 @@
+prefix=/home/anton/Documents/turtle_1839m_ws/install
+
+Name: lab_6_1_beacon
+Description: Description of lab_6_1_beacon
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

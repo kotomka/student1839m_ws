@@ -1,0 +1,2 @@
+lab_1_turtlesim:lab_2_start:lab_3_bag:lab_4_2:lab_4_pointcloud:lab_6_1_beacon:lab_6_2_turtle_model
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/anton/Documents/turtle_1839m_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anton/Documents/turtle_1839m_ws/install

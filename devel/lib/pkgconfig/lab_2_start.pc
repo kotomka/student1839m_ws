@@ -1,0 +1,8 @@
+prefix=/home/anton/Documents/turtle_1839m_ws/devel
+
+Name: lab_2_start
+Description: Description of lab_2_start
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

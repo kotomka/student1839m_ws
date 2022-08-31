@@ -1,0 +1,19 @@
+name_first_turtle: flow
+x_pos_first_tutrle: 3.0
+y_pos_first_tutrle: 3.0
+th_pos_first_tutrle: 0.0
+set_pen_b_first_turtle: 255
+set_pen_g_first_turtle: 0
+set_pen_r_first_turtle: 0
+set_pen_width_first_turtle: 5
+radius_first: 0.5
+
+name_second_tutrle: nani
+x_pos_second_tutrle: 6.0
+y_pos_second_tutrle: 6.5
+th_pos_second_tutrle: 0.0
+set_pen_b_second_turtle: 0
+set_pen_g_second_turtle: 255
+set_pen_r_second_turtle: 255
+set_pen_width_second_turtle: 7
+radius_second: 1.9
